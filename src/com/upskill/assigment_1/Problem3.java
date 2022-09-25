@@ -24,5 +24,7 @@ public static int multiplyFunction(int a, int b)
 }
 
 
+
+//new
 }
  
