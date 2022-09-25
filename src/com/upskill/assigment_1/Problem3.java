@@ -11,7 +11,7 @@ public static void main(String[] args){
 	
 	int a=9;
 	
-	int b=11;
+	int b=12;
 	
 	int multiplicationValue = multiplyFunction(a,b);
 	
